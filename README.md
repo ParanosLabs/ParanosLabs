@@ -4,7 +4,6 @@
 <br>
 <br>
 ## 🌎 Links:
-- Website https://paranos.io/
-- Twitter https://twitter.com/ParanosLabs
-- Audit request email mailto:contact@paranos.io
-- Audit request Telegram
+* Website https://paranos.io/
+* Twitter https://twitter.com/ParanosLabs
+* Audit request email mailto:contact@paranos.io
